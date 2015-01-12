@@ -70,11 +70,11 @@ INSERT INTO LUGAR (id_lugar,tipo_lugar,nombre_lugar,FK_LUGAR) values (144411,'Ap
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ----------------------------------- 5 INSERT DE CARGO ------------------------------------------
-INSERT INTO CARGO (id_cargo,nombre_cargo,salario_cargo) values (186713,'Gerente',15000);
-INSERT INTO CARGO (id_cargo,nombre_cargo,salario_cargo) values (186714,'Gerente',14500);
-INSERT INTO CARGO (id_cargo,nombre_cargo,salario_cargo) values (186715,'Gerente',17500);
-INSERT INTO CARGO (id_cargo,nombre_cargo,salario_cargo) values (186716,'Administrador',11500);
-INSERT INTO CARGO (id_cargo,nombre_cargo,salario_cargo) values (186717,'Administrador',10500);
+INSERT INTO CARGO (id_cargo,nombre_cargo,salario_cargo) values (186713,'Ingeniero',15000);
+INSERT INTO CARGO (id_cargo,nombre_cargo,salario_cargo) values (186714,'Jefe',14500);
+INSERT INTO CARGO (id_cargo,nombre_cargo,salario_cargo) values (186715,'Manager',17500);
+INSERT INTO CARGO (id_cargo,nombre_cargo,salario_cargo) values (186716,'Obrero',11500);
+INSERT INTO CARGO (id_cargo,nombre_cargo,salario_cargo) values (186717,'Rector',10500);
 -----------------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------------------------------------------------------------- 10 INSERT DE PERSONA ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
